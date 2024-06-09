@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110106862310",
+    "firebase_url": "https://chohanfurniture-24856-default-rtdb.firebaseio.com",
+    "project_id": "chohanfurniture-24856",
+    "storage_bucket": "chohanfurniture-24856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110106862310:android:5dcbfbe533b4ee5c14d127",
+        "android_client_info": {
+          "package_name": "com.example.chohanfurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110106862310-uffr9ru05jkld7muatnfqjb0hq4its92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chohanfurniture",
+            "certificate_hash": "d24e5c8a9ae4e60374d6bb4624ac80a31b8be7b8"
+          }
+        },
+        {
+          "client_id": "110106862310-heu9e9tiiueighmk05lbsa2t3l8f30ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwpaT-YDN_g6hm6PvFjRi4Fo4WgE1hNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110106862310-ck4u5r4uc4v59ltrtpi9hipqk0lhm1hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

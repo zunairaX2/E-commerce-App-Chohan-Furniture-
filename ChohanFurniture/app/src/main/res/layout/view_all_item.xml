@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="210dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="#E5E5E5"
+    app:cardCornerRadius="15dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/view_img"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/computertable"
+            app:riv_corner_radius="14dp" />
+
+        <TextView
+            android:id="@+id/view_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@+id/view_img"
+            android:text="Sofa"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/view_des"
+            android:layout_width="185dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/view_name"
+            android:layout_marginLeft="205dp"
+            android:layout_marginTop="20dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="description"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view_des"
+            android:layout_marginLeft="270dp"
+            android:layout_marginTop="20dp"
+            android:text="Price: "
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/view_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view_des"
+            android:layout_marginLeft="310dp"
+            android:layout_marginTop="20dp"
+            android:text="30"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:layout_marginTop="70dp"
+            android:id="@+id/start"
+            android:layout_width="20dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/view_des"
+            android:layout_marginLeft="210dp"
+            android:src="@drawable/starhalf" />
+        <TextView
+            android:layout_marginTop="75dp"
+            android:id="@+id/view_rating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view_des"
+            android:text="5.0"
+            android:layout_toRightOf="@+id/start"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view_des"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="73dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@+id/view_rating"
+            android:text="|" />
+        <TextView
+            android:layout_marginTop="70dp"
+            android:id="@+id/view_sold"
+            android:layout_width="70dp"
+            android:layout_height="20dp"
+            android:background="@drawable/create_input"
+            android:orientation="horizontal"
+            android:text="8374 sold"
+            android:layout_below="@+id/view_des"
+            android:layout_toRightOf="@id/start"
+            android:backgroundTint="#E5E5E5"
+            android:textColor="@color/black"
+            android:layout_marginLeft="90dp"/>
+        </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

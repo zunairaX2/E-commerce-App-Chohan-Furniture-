@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/drawable/black_btn.xml" value="0.139" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/drawable/create_input.xml" value="0.139" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/drawable/ic_baseline_account_balance_wallet_24.xml" value="0.139" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.139" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/drawable/round_input.xml" value="0.139" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/drawable/round_input_white.xml" value="0.139" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_add_address.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_address.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_address2.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_create_account.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_detailed.xml" value="0.16666666666666666" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_fill_profile.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_home_and_menu.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_login.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_main.xml" value="0.14791666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_payment.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_payment2.xml" value="0.14791666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_placed_order.xml" value="0.14791666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_quality1.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_view_all.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_welcome.xml" value="0.14791666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/activity_welcome_login.xml" value="0.14791666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/address_item.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/fragment_cart.xml" value="0.14666666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/fragment_home.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/fragment_order.xml" value="0.14791666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/fragment_profile.xml" value="0.14791666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/fragment_wallet.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/home_cat_items.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/home_category.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/my_cart_item.xml" value="0.14666666666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/popular_item.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/recommanded_item.xml" value="0.16197916666666667" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/slider_layout.xml" value="0.1609375" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/layout/view_all_item.xml" value="0.22" />
+        <entry key="..\:/5thSemesterdata/MAD/Class/ChohanFurniture/app/src/main/res/menu/bottom_menu.xml" value="0.16197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
